@@ -64,5 +64,15 @@ Y conocimientos propios del lenguaje JAVA...
 
 - David Núñez
 
+# Probar el proyecto:
+
+MacOS/Linux: En terminal, ubicarse en el directorio del proyecto y correr el siguiente comando
+
+./mvnw spring-boot:run
+
+Windows: En terminal, ubicarse en el directorio del proyecto y correr el siguiente comando
+
+mvnw spring-boot:run
+
 
 
