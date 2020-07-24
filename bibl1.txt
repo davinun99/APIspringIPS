@@ -1,7 +1,0 @@
-
-
-https://spring.io/guides/gs/rest-service/
-https://stackoverflow.com/questions/38372422/how-to-post-form-data-with-spring-resttemplate
-https://stackoverflow.com/questions/7021084/how-do-you-receive-a-url-parameter-with-a-spring-controller-mapping
-https://docs.spring.io/spring/docs/current/javadoc-api/org/springframework/web/client/RestTemplate.html#postForObject-java.lang.String-java.lang.Object-java.lang.Class-java.lang.Object...-
-https://www.it-swarm-es.tech/es/java/como-responder-con-el-error-http-400-en-un-metodo-spring-mvc-responsebody-que-devuelve-string/1071870125/
